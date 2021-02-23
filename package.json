@@ -1,0 +1,25 @@
+{
+  "name": "recreapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derickdev6/recreapp.git"
+  },
+  "author": "Derick Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derickdev6/recreapp/issues"
+  },
+  "homepage": "https://github.com/derickdev6/recreapp#readme",
+  "devDependencies": {
+    "ts-loader": "^8.0.17",
+    "typescript": "^4.1.5",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
